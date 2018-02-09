@@ -1,0 +1,10 @@
+# virtualenv
+.env
+venv/
+ENV/
+
+#pyenv
+.python-version
+
+# migrations
+migrations/

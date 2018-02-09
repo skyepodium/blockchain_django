@@ -1,0 +1,13 @@
+certifi==2018.1.18
+chardet==3.0.4
+Django==2.0.2
+djangorestframework==3.7.7
+get==0.0.39
+idna==2.6
+post==0.0.26
+public==0.0.65
+pytz==2017.3
+query-string==0.0.28
+request==0.0.26
+requests==2.18.4
+urllib3==1.22
